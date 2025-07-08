@@ -45,4 +45,4 @@ To implement a machine learning regression model that accurately predicts house 
 ## 📣 Contact
 
 📧 your-harshaliupase12@gmail.com  
-🔗 [Your LinkedIn Profile](#)
+🔗 your-Harshali Upase
