@@ -34,7 +34,7 @@ To implement a machine learning regression model that accurately predicts house 
 - Google Colab notebook
 ## 🔗 Live Demo
 
-👉 [Google Colab Notebook Link - To be added](#)
+👉 [Google Colab Notebook Link - To be added](https://colab.research.google.com/drive/1YourNotebookID)
   This task is part of Credora’s Machine Learning Internship.
   house-price-prediction/
 │
